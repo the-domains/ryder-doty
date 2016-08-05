@@ -1,4 +1,3 @@
-layout_spectrum: 0.7010512086562812
 typography_spectrum: 0.9896493873093277
 color:
   brandStrength: 0.38912430265918374
@@ -11,4 +10,10 @@ color:
     - '#FFD34E'
     - '#DB9E36'
     - '#BD4932'
+layout_spectrum: 0.7010512086562812
+author:
+  name: Ryder Doty
+  email: ryder@ryderdoty.com
+  url: www.ryderdoty.com
 name: Ryder Doty
+title: Artist and Shop
