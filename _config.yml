@@ -16,4 +16,8 @@ author:
   email: ryder@ryderdoty.com
   url: www.ryderdoty.com
 name: Ryder Doty
+navigation:
+  - name: Art
+    id: afaf0975-31ba-40a7-8166-f7e317efcff3
+    type: content
 title: Artist and Shop
