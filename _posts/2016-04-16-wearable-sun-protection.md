@@ -1,10 +1,8 @@
 ---
-datePublished: '2016-08-05T17:48:21.961Z'
+datePublished: '2016-08-05T17:51:41.193Z'
 sourcePath: _posts/2016-04-16-wearable-sun-protection.md
 inFeed: true
-isBasedOnUrl: >-
-  http://www.coolhunting.com/design/five-long-sleeve-performance-tops-beach-sun-protection
-hasPage: false
+hasPage: true
 keywords:
   - surf
   - long-sleeved
@@ -18,7 +16,7 @@ keywords:
   - jumbled
 related: []
 author: []
-dateModified: '2016-08-05T17:48:21.564Z'
+dateModified: '2016-08-05T17:51:40.623Z'
 title: Wearable Sun Protection
 app_links: []
 publisher:
@@ -34,6 +32,7 @@ inLanguage: en
 inNav: false
 via: {}
 starred: false
+url: wearable-sun-protection/index.html
 _context: 'http://schema.org'
 _type: MediaObject
 
